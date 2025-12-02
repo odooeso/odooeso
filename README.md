@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+# 💫 About Me:
+🛠️ I'm currently working on<br>Building scalable web applications, implementing automated workflows, and exploring AI model training for real-world applications.<br><br>🤝 I'm looking to collaborate on<br>Fullstack development projects, custom website designs, blockchain solutions, or anything involving automation with tools like UI Path, n8n, Make, and Zapier.<br><br>🆘 I'm looking for help with<br>Scaling AI training infrastructure, optimizing low-code automation pipelines, and exploring advanced use cases in blockchain integrations.<br><br>🌱 I'm currently learning<br>Advanced data analytics with Python and AI model fine-tuning using real-world datasets.<br><br>💡 Ask me about<br>Freelancing in tech, setting up complex workflow automations, building AI-ready pipelines, or deploying fullstack apps from scratch.<br><br>⚡ Fun fact<br>I love breaking down complex tech into simple, useful solutions—and I automate everything I can, including coffee reminders ☕⚙️.<br><br>
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/baohuy2209) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/huynguyen002311) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@huynguyen002311) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/0bohuy) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Nguyen Bao Huy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@baohhhhy2209) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@/@03_NguyenBaoHuy) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/baohuy2209) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:huynguyen002311@gmail.com) 
+
+
 <!--
 **odooeso/odooeso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
